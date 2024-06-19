@@ -34,6 +34,6 @@ Thank you.
 
 ## Author
 
-Milan gupta
+Milan Gupta
 
 
